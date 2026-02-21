@@ -1,3 +1,3 @@
-# QME Search
+# QME-Search
 
-This repository contains the source code for QME Search application.
+This project provides a comprehensive solution for ...
